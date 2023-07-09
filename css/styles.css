@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#inventory {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.inventory-item {
+    border: 1px solid #000;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
